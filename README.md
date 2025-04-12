@@ -114,7 +114,7 @@ This project really helped me apply SQL in a business context, and I believe it�
 
 ## 👨‍💻 About Me
 
-Hi, I’m **rwtadisingh12** 👋  
+Hi, I’m **Aditya Singh Rawat** 👋  
 I’m exploring data analytics and business intelligence, and this project is part of my journey toward becoming a data analyst. Feel free to connect or check out my other projects!
 
 ---
